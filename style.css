@@ -65,9 +65,9 @@ input:valid {
     box-shadow:0px 4px 4px rgba(83, 83, 83, 0.316);
 }
 
-input:invalid {
+/* input:invalid {
     box-shadow:0px 5px 7px -3px rgba(241, 0, 0, 0.3);
-}
+} */
 
 .btmText {
     width:60%;
